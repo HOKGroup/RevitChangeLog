@@ -69,5 +69,3 @@ d3d4994e-c5d9-48fd-b692-5531f661a5fb,Revit Component : Lounge and Ottoman : id 1
 7458d87e-cba9-4361-9b79-8ba539860eb4,Revit Graphical Element : Room Tag With Area : id 162906,00000000-0000-0000-0000-000000000000
 567c91d4-48a9-44a5-abe8-9631be77e7d4,Revit Graphical Element : Room Tag With Area : id 162907,00000000-0000-0000-0000-000000000000
 567c91d4-48a9-44a5-abe8-9631be77e7d4,Revit Graphical Element : Room Tag With Area : id 162908,00000000-0000-0000-0000-000000000000
-b4d2852b-e295-4165-9c6e-b5e569dae3b9,Revit Graphical Element : Text Note 1 : id 165115,00000000-0000-0000-0000-000000000000
-2b6e550b-e6d4-4fec-a176-caa1ec0b0ebd,Revit Dimension : Diagonal : id 165122,00000000-0000-0000-0000-000000000000
