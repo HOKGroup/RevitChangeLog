@@ -1,0 +1,2 @@
+﻿LogPath,ProjectName,ProjectNumber,ExternalId,Scope,DemoLink,ProjectNote
+<logpath(required)>,<project name(required)>,<project number(required)>,<external id (optional)>,<All|Model Categories|Annotation Categroies| Columns;Ducts;(required)>,<demo url (optional)>,<project note (optional)>
