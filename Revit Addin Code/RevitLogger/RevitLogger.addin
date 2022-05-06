@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit Logger</Name>
+    <Assembly>RevitLogger.dll</Assembly>
+    <AddInId>
+      97A57F2A-0510-409D-B758-F6472E74B231
+    </AddInId>
+    <FullClassName>RevitLogger.Application</FullClassName>
+    <text>Revit Logger</text>
+    <Description>Revit Logger</Description>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	  <VisibilityMode>NotVisibleInFamily</VisibilityMode>
+	  
+  </AddIn>
+</RevitAddIns>
