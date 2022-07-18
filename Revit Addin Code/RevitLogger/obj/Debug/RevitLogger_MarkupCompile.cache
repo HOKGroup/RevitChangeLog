@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\
+S:\Git\RevitChangeLog\Revit Addin Code\RevitLogger\obj\Debug\
 RevitLogger
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 31281101688
 
-33-342669359
-20-2127887801
+341579108762
+19-634007805
 UI\NoteWindow.xaml;UI\ProgressWindow.xaml;UI\MainWindow.xaml;
 
-False
+True
 
